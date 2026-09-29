@@ -1,7 +1,6 @@
 #Propósito: Esta aula introduz os conceitos básicos de classificação utilizando o algoritmo Linear Support Vector Classifier (`LinearSVC`) da biblioteca `scikit-learn`. 
 #Demonstra a criação de um conjunto de dados de treino, a construção do modelo e a avaliação inicial da acurácia.
 
-**Instruções:** Copie o código abaixo e salve-o como `aula1.py`.
 import numpy as np
 from sklearn.svm import LinearSVC
 from sklearn.metrics import accuracy_score
