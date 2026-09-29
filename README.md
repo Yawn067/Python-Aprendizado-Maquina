@@ -8,9 +8,8 @@ O projeto está organizado em aulas, cada uma focando em um aspecto diferente do
 
 *   `aula1.py`: Introdução à classificação com `LinearSVC` e avaliação de acurácia.
 *   `aula2.py`: Aplicação de `LinearSVC` em dados de tracking e divisão de dados com `train_test_split`.
-*   `aula3.py`: Previsão de finalização de projetos, visualização de dados e discussão sobre modelos lineares.
-*   `aula4.py`: Introdução a modelos não-lineares com `SVC` e padronização de dados com `StandardScaler`.
-*   `aula5.py`: Comparação de modelos (`SVC`, `DummyClassifier`, `DecisionTreeClassifier`) para predição de venda de carros, com engenharia de features e visualização de árvores de decisão.
+*   `aula3.py`: Predição de finalização de projetos, diferenciando modelos lineares (`LinearSVC`) e não-lineares (`SVC`), explorando a necessidade de escalonamento de dados e visualização das fronteiras de decisão.
+*   `aula4.py`: Comparação de modelos (`SVC`, `DummyClassifier`, `DecisionTreeClassifier`) para predição de venda de carros, com engenharia de features e visualização de árvores de decisão.
 
 ## Como Usar
 
@@ -31,10 +30,6 @@ O projeto está organizado em aulas, cada uma focando em um aspecto diferente do
     python aula2.py
     # etc.
     ```
-
-## Contribuição
-
-Sinta-se à vontade para explorar, sugerir melhorias ou fazer pull requests. Este projeto é uma base para aprendizado e prática de conceitos de Machine Learning.
 
 ## Autor
 
